@@ -17,7 +17,6 @@ What objection.js gives you:
 - **Easy to use [transactions](https://vincit.github.io/objection.js/guide/transactions.html)**
 - **Official [TypeScript](https://github.com/Vincit/objection.js/blob/master/typings/objection/index.d.ts) support**
 - **Optional [JSON schema](https://vincit.github.io/objection.js/guide/validation.html) validation**
-- **A way to [store complex documents](https://vincit.github.io/objection.js/guide/documents.html) as single rows**
 
 What objection.js **doesn't** give you:
 
