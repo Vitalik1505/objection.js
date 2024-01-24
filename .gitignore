@@ -12,4 +12,3 @@ profiling
 npm-debug.log*
 .vscode
 /**/yarn.lock
-/**/.vuepress/dist
